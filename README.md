@@ -1,1 +1,1 @@
-# You can save and delete website links using this chrome extension.
+# You can save and delete website links or notes using this chrome extension.
