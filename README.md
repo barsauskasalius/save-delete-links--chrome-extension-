@@ -1,1 +1,1 @@
-# save-delete-links--chrome-extension-
+# You can save and delete website links using this chrome extension.
